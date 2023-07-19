@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{MPD}
+M.~Otterlo and M.~Wiering.
+\newblock {\em Reinforcement learning and markov decision processes.
+  Reinforcement Learning. Adaptation, Learning, and Optimization. Vol. 12}.
+\newblock 2012.
+
+\bibitem{MPD2}
+Richard~S Sutton and Andrew~G Barto.
+\newblock {\em Reinforcement learning: An introduction. MIT press}.
+\newblock url: http://incompleteideas.net/book/RLbook2020.pdf., 2018.
+
+\end{thebibliography}
